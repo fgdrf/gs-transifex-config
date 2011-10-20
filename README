@@ -1,0 +1,14 @@
+Here you can find configuration files for the Transifex.net client tool [1] to synchronize translations for GeoServer.org
+
+Steps to activate translation support synchronization for the different projects:
+
+* Install Transifex client tool (http://help.transifex.net/features/client/index.html#getting-the-client)
+* checkout GeoServer project from repository
+	mkdir gs-trunk
+	svn checkout https://svn.codehaus.org/geoserver/trunk
+* create a folder '.tx'
+	cd gs-trunk
+        mkdir .tx
+* copy the relevant config file into the '.tx' folder
+* start editing on translations
+* use the tx client tool to synchronize
