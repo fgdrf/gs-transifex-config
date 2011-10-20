@@ -1,0 +1,38 @@
+[geoserver_21x.core]
+file_filter = src/web/core/src/main/resources/GeoServerApplication_<lang>.properties
+source_file = src/web/core/src/main/resources/GeoServerApplication.properties
+source_lang = en
+
+[geoserver_21x.gwc]
+file_filter = src/web/gwc/src/main/resources/GeoServerApplication_<lang>.properties
+source_file = src/web/gwc/src/main/resources/GeoServerApplication.properties
+source_lang = en
+
+[geoserver_21x.wfs]
+file_filter = src/web/wfs/src/main/resources/GeoServerApplication_<lang>.properties
+source_file = src/web/wfs/src/main/resources/GeoServerApplication.properties
+source_lang = en
+
+[geoserver_21x.security]
+file_filter = src/web/security/src/main/resources/GeoServerApplication_<lang>.properties
+source_file = src/web/security/src/main/resources/GeoServerApplication.properties
+source_lang = en
+
+[geoserver_21x.wcs]
+file_filter = src/web/wcs/src/main/resources/GeoServerApplication_<lang>.properties
+source_file = src/web/wcs/src/main/resources/GeoServerApplication.properties
+source_lang = en
+
+[geoserver_21x.wms]
+file_filter = src/web/wms/src/main/resources/GeoServerApplication_<lang>.properties
+source_file = src/web/wms/src/main/resources/GeoServerApplication.properties
+source_lang = en
+
+[main]
+host = https://www.transifex.net
+
+[geoserver_21x.demo]
+file_filter = src/web/demo/src/main/resources/GeoServerApplication_<lang>.properties
+source_file = src/web/demo/src/main/resources/GeoServerApplication.properties
+source_lang = en
+
