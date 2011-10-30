@@ -42,8 +42,8 @@ source_file = src/extension/arcsde/src/main/java/GeoServerApplication.properties
 source_lang = en
 
 [geoserver_22x.ext_geosearch]
-file_filter = src/extension/geosearch/src/main/java/GeoServerApplication_<lang>.properties
-source_file = src/extension/geosearch/src/main/java/GeoServerApplication.properties
+file_filter = src/extension/geosearch/src/main/resources/GeoServerApplication_<lang>.properties
+source_file = src/extension/geosearch/src/main/resources/GeoServerApplication.properties
 source_lang = en
 
 [geoserver_22x.ext_h2]
