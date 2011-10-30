@@ -36,3 +36,42 @@ file_filter = src/web/demo/src/main/resources/GeoServerApplication_<lang>.proper
 source_file = src/web/demo/src/main/resources/GeoServerApplication.properties
 source_lang = en
 
+[geoserver_21x.ext_arcsde]
+file_filter = src/extension/arcsde/src/main/java/GeoServerApplication_<lang>.properties
+source_file = src/extension/arcsde/src/main/java/GeoServerApplication.properties
+source_lang = en
+
+[geoserver_21x.ext_geosearch]
+file_filter = src/extension/geosearch/src/main/java/GeoServerApplication_<lang>.properties
+source_file = src/extension/geosearch/src/main/java/GeoServerApplication.properties
+source_lang = en
+
+[geoserver_21x.ext_h2]
+file_filter = src/extension/h2/src/main/java/GeoServerApplication_<lang>.properties
+source_file = src/extension/h2/src/main/java/GeoServerApplication.properties
+source_lang = en
+
+[geoserver_21x.ext_wps]
+file_filter = src/extension/wps/web-wps/src/main/java/GeoServerApplication_<lang>.properties
+source_file = src/extension/wps/web-wps/src/main/java/GeoServerApplication.properties
+source_lang = en
+
+[geoserver_21x.com_printing]
+file_filter = src/community/printing/src/main/java/GeoServerApplication_<lang>.properties
+source_file = src/community/printing/src/main/java/GeoServerApplication.properties
+source_lang = en
+
+[geoserver_21x.com_istyler]
+file_filter = src/community/istyler/src/main/resources/GeoServerApplication_<lang>.properties
+source_file = src/community/istyler/src/main/resources/GeoServerApplication.properties
+source_lang = en
+
+[geoserver_21x.com_monitoring]
+file_filter = src/community/monitoring/src/main/resources/GeoServerApplication_<lang>.properties
+source_file = src/community/monitoring/src/main/resources/GeoServerApplication.properties
+source_lang = en
+
+[geoserver_21x.com_css]
+file_filter = src/community/css/src/main/resources/GeoServerApplication_<lang>.properties
+source_file = src/community/css/src/main/resources/GeoServerApplication.properties
+source_lang = en
